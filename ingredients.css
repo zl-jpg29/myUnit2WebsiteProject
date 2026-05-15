@@ -1,0 +1,19 @@
+body {
+  background: rgb(192, 133, 82);
+}
+p {
+  color: rgb(255, 248, 240);
+  font-size: 30px; 
+}
+h1 {
+  font-weight: bold;
+  font color: rgb(75, 46, 43);
+}
+.img {
+  background-image: url("ingredientpic.png");
+  width:450px;
+  height: 600px;
+  border-style: double;
+  border-width:thick;
+  border-color:black;
+}
